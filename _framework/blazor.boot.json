@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GawainyaBapakWeb",
   "resources": {
-    "hash": "sha256-WPXEjIOe8W0Ch+j5mtCb/1teZbFH4I0S8dLD5v5pvuU=",
+    "hash": "sha256-8ZeSIqYIdRMk2OYYVyI6Y3gTiVqlXBGS9oI2IBW1/BY=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.i72cwpu7q6.js": "sha256-oXccQn9rICGrmJCU3+W/8JiZeUiNSyNwKlDJJuHaJHs="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "GawainyaBapakWeb.wasm": "sha256-yfa+vpAjfruK1GFSxlANMdRmFC8VCVLfDWbKztyheWs=",
+      "GawainyaBapakWeb.wasm": "sha256-EEfSi4pf7ppw5rSl7bcl3GcSG0vTGwutDLIavKuydMo=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-VS0AiSyRt/aiOantX+eu1XIT896oY37PcKt0QzpEb1A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-ivj7kxN8rrhTm1UV0H7dhsOewu6rhATFU2ZAG/YKLvA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ws5szf6fWPAXna+XyWsAhavx+WDFcA/91DQ7iPRPCMs=",
